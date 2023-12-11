@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/newrobocards/static/css/main.d9d45d24.css",
+    "main.js": "/newrobocards/static/js/main.1af59c69.js",
+    "static/media/SEGA.woff": "/newrobocards/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/newrobocards/index.html",
+    "main.d9d45d24.css.map": "/newrobocards/static/css/main.d9d45d24.css.map",
+    "main.1af59c69.js.map": "/newrobocards/static/js/main.1af59c69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d45d24.css",
+    "static/js/main.1af59c69.js"
+  ]
+}
